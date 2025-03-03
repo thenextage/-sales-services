@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nextage - Programador Freelancer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #161b22;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            margin: 50px auto;
+            max-width: 600px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #238636;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #2ea043;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nextage - Programador Freelancer</h1>
+    </header>
+    <div class="container">
+        <h2>Precisa de um programador para resolver seu problema?</h2>
+        <p>Especialista em Python, automação, bots e soluções personalizadas.</p>
+        <a href="#contato" class="button">Entre em contato</a>
+    </div>
+</body>
+</html>
